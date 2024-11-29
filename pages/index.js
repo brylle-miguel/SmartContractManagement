@@ -154,7 +154,7 @@ export default function HomePage() {
   return (
     <main className="container">
       <header>
-        <h1>LUSTAVIA ETHERIUM NETWORK</h1>
+        <h1>ETH NETWORK</h1>
       </header>
       {initUser()}
       <style jsx>{`
